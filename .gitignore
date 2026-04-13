@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+.venv
+.vscode/
+run_local.bat
